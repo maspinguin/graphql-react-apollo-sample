@@ -19,7 +19,7 @@ export default class AppLoader extends React.Component {
             <ApolloProvider client={client}>
                 <div>
                     App
-                    {/*<App/>*/}
+                    <App/>
                 </div>
             </ApolloProvider>
         );
